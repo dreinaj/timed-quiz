@@ -20,3 +20,5 @@ var questionBank = [
         answer: 1
     }
 ]
+var questionContainer=document.getElementById("questioncontainer")
+questionContainer.style.display="none"
